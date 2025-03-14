@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Sudhagad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-03-14T10:43:26.517Z",
+      "notes": "a",
+      "position": {
+        "lat": "18.545774302595923",
+        "lng": "73.32275390625001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Kizilsu",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-03-14T10:43:35.840Z",
+      "notes": "a",
+      "position": {
+        "lat": "38.06047654231877",
+        "lng": "76.42089843750001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Aksu-Ayuly",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2025-03-14T10:43:44.689Z",
+      "notes": "a",
+      "position": {
+        "lat": "49.29492467218534",
+        "lng": "72.99316406250001"
+      },
+      "id": 3
+    }
+  ]
+}
